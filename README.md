@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+The aim of this project is to learn basic working of Next.js and
+use of Tailwind.css. This project is still under development and so is this readme file
 ## Getting Started
 
 First, run the development server:
